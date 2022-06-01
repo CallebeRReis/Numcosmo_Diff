@@ -21,7 +21,6 @@ size = 5
 
 a = d.Derivative(func, 0.1, size)
 b = diff_table.Diff_Table(a,0.1,parameter,1.0)
-# b.build_delta_Central(1.0)
 b.build_Table_Backward()
 b.printTable()
 

@@ -1,2 +1,4 @@
 _pycache_/
 .vs/
+__pycache__/derivative.cpython-310.pyc
+__pycache__/diff_table.cpython-310.pyc
